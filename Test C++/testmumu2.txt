@@ -1,2 +1,0 @@
-Player : testmumu2
-Tokens : 1

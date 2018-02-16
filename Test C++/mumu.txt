@@ -1,2 +1,0 @@
-Player : mumu
-Tokens : 10

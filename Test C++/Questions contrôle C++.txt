@@ -1,0 +1,17 @@
+Question 1 :
+En langage C, il n'y a pas de programmation objet ou de classes.
+Il faut se contenter des structures ce qui rend beaucoup plus difficile et long ce genre de programmation.
+
+Tandis qu'en C++, l'objet, les classes et le polymorphisme sont utilisables.
+
+
+Question 2 :
+Un objet est une instance de Classe.
+
+Une classe est séparé en un header (.h / .hpp / .hxx / .H) pour la définition et un fichier source (.c ou .cpp) pour la déclaration de tout ce qu'elle contient, c'est-à-dire :
+Des attributs (les variables membre de la classe)
+Des méthodes (les fonctions que contient la classe)
+Un ou plusieurs constructeurs (permet d'instantier un objet avec des attributs prédéfinis différents selon les constructeurs)
+Un destructeur (permet de supprimer une instance d'objet)
+Une instance d'objet est automatiquement supprimée à la fin de la scope où il a été définit ou à l'appel de son destructeur.
+

@@ -1,0 +1,8 @@
+﻿  Test C++.cpp
+c:\users\adai104\source\repos\test c++\test c++\joueur.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Casino.cpp
+c:\users\adai104\source\repos\test c++\test c++\joueur.h(3): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+c:\users\adai104\source\repos\test c++\test c++\casino.cpp(52): warning C4018: '>' : incompatibilité signed/unsigned
+c:\users\adai104\source\repos\test c++\test c++\casino.cpp(76): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
+  Test C++.vcxproj -> C:\Users\adai104\source\repos\Test C++\Debug\Test C++.exe
